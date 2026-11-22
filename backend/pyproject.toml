@@ -1,0 +1,14 @@
+[project]
+name = "backend"
+version = "0.1.0"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "fastapi>=0.163.1",
+    "groq>=1.7.0",
+    "pypdf>=7.1.1",
+    "python-dotenv>=1.2.4",
+    "python-multipart>=0.0.34",
+    "sentence-transformers>=6.3.0",
+    "supabase>=2.34.1",
+    "uvicorn>=0.54.0",
+]
