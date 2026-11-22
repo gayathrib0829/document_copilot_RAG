@@ -68,3 +68,16 @@ tzdata==2026.3
 wcwidth==0.8.2
 Werkzeug==3.1.9
 xgboost==3.3.0
+
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+supabase
+sentence-transformers
+groq
+pypdf
+numpy
+scikit-learn
+torch
+
